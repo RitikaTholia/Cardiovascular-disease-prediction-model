@@ -1,5 +1,7 @@
 # Heart Disease Prediction
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RitikaTholia/Cardiovascular-disease-prediction-model/blob/main/Cardiovascular_Prediction.ipynb)
+> **Note:** Sometimes GitHub preview may not display the notebook correctly.
+> You can open it in Google Colab here:
+> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RitikaTholia/Cardiovascular-disease-prediction-model/blob/main/Cardiovascular_Prediction.ipynb)
 
 This project implements multiple machine learning models to predict the presence of heart disease based on clinical and diagnostic data. The dataset includes patient attributes such as age, cholesterol levels, blood pressure, ECG results, and more. Models are evaluated using accuracy, precision, recall, F1-score, sensitivity, specificity, ROC curves, and AUC.
 
